@@ -1,0 +1,7 @@
+title: Điện Gia Dụng - Thiên Xuân
+description: >-
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
